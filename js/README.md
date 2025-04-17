@@ -1,1 +1,1 @@
-Aqui ficam os arquivos das JavaScript
+javascript

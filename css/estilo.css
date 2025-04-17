@@ -1,0 +1,15 @@
+body {
+  background-image: url("https://media1.tenor.com/m/3KA0kR_r8W4AAAAd/fun-memes.gif");
+  background-size: cover;
+}
+
+th,
+td {
+  text-align: center;
+  color: white;
+}
+
+@font-face {
+  font-family: ;
+  src: url();
+}

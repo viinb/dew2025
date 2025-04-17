@@ -1,1 +1,1 @@
-Aqui ficam os arquivos de imagens
+imagens
