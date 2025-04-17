@@ -1,15 +1,15 @@
+@font-face {
+  font-family: "comic";
+  src: url("../fonts/comic-sans.ttf");
+}
+
 body {
-  background-image: url("https://media1.tenor.com/m/3KA0kR_r8W4AAAAd/fun-memes.gif");
-  background-size: cover;
+  background-image: url("https://media1.tenor.com/m/-fkKxzRacXsAAAAd/teto-kasane-teto.gif");
+  background-size: contain;
 }
 
 th,
 td {
   text-align: center;
-  color: white;
-}
-
-@font-face {
-  font-family: ;
-  src: url();
+  font-family: "comic";
 }
